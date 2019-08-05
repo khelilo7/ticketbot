@@ -16,3 +16,9 @@ $ npm install
 $ node ticketbot-tesseract.js
 ```
 to install all the packgesand run the script, enjoy
+
+## Cool video to understand OCR :
+https://www.youtube.com/watch?v=jO-1rztr4O0
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
